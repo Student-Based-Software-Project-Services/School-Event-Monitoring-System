@@ -1,3 +1,5 @@
+package other;
+
 class jOptionPane {
 
     static void showMessageDialog(DashBoard aThis, String eventForm) {
